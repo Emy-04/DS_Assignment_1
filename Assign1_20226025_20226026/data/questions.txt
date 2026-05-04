@@ -1,0 +1,50 @@
+GEOGRAPHY|What is the capital of France?|Paris|London|Berlin|Rome|A|EASY
+GEOGRAPHY|What is the largest country by area?|USA|China|Canada|Russia|D|EASY
+GEOGRAPHY|Which river is the longest in the world?|Amazon|Nile|Yangtze|Mississippi|B|MEDIUM
+GEOGRAPHY|What is the capital of Australia?|Sydney|Melbourne|Canberra|Brisbane|C|MEDIUM
+GEOGRAPHY|Which country has the most natural lakes?|USA|Russia|Brazil|Canada|D|HARD
+GEOGRAPHY|What is the smallest country in the world?|Monaco|San Marino|Vatican City|Liechtenstein|C|MEDIUM
+GEOGRAPHY|Which continent has the most countries?|Asia|Europe|Africa|South America|C|MEDIUM
+GEOGRAPHY|What is the capital of Japan?|Osaka|Kyoto|Tokyo|Hiroshima|C|EASY
+GEOGRAPHY|Which ocean is the largest?|Atlantic|Indian|Arctic|Pacific|D|EASY
+GEOGRAPHY|What is the longest mountain range in the world?|Himalayas|Rockies|Alps|Andes|D|HARD
+MATH|What is 15 multiplied by 7?|100|105|110|115|B|EASY
+MATH|What is the square root of 144?|10|11|12|13|C|EASY
+MATH|What is 2 to the power of 10?|512|1024|2048|256|B|MEDIUM
+MATH|What is the value of Pi to 2 decimal places?|3.12|3.14|3.16|3.18|B|EASY
+MATH|What is 25 percent of 200?|40|50|60|25|B|EASY
+MATH|What is the integral of 2x dx?|x|x^2|2x^2|x^2+C|D|HARD
+MATH|What is the sum of angles in a triangle?|90|180|270|360|B|EASY
+MATH|What is the factorial of 5?|60|100|120|150|C|MEDIUM
+MATH|If x squared equals 81 what is x?|7|8|9|10|C|EASY
+MATH|What is the derivative of x cubed?|x^2|2x^2|3x^2|3x|C|HARD
+SCIENCE|What is the chemical symbol for Gold?|Go|Gd|Au|Ag|C|EASY
+SCIENCE|How many bones are in the adult human body?|196|206|216|226|B|MEDIUM
+SCIENCE|What planet is closest to the Sun?|Venus|Earth|Mars|Mercury|D|EASY
+SCIENCE|What is the speed of light in km per second approximately?|200000|300000|400000|500000|B|MEDIUM
+SCIENCE|What is the atomic number of Carbon?|4|6|8|12|B|EASY
+SCIENCE|What is the powerhouse of the cell?|Nucleus|Ribosome|Mitochondria|Golgi Apparatus|C|EASY
+SCIENCE|What gas do plants absorb from the atmosphere?|Oxygen|Nitrogen|Carbon Dioxide|Hydrogen|C|EASY
+SCIENCE|What is the chemical formula for water?|HO|H2O|H3O|H2O2|B|EASY
+SCIENCE|What planet has the most moons?|Jupiter|Saturn|Uranus|Neptune|B|MEDIUM
+SCIENCE|What is the hardest natural substance on Earth?|Gold|Iron|Diamond|Quartz|C|EASY
+HISTORY|In what year did World War II end?|1943|1944|1945|1946|C|EASY
+HISTORY|Who was the first President of the USA?|Abraham Lincoln|Thomas Jefferson|George Washington|John Adams|C|EASY
+HISTORY|Which empire was ruled by Julius Caesar?|Greek|Ottoman|Roman|Persian|C|MEDIUM
+HISTORY|In what year did the Berlin Wall fall?|1987|1988|1989|1990|C|MEDIUM
+HISTORY|Who wrote the Communist Manifesto?|Lenin|Stalin|Marx|Trotsky|C|HARD
+HISTORY|In what year did World War I begin?|1912|1913|1914|1915|C|EASY
+HISTORY|Which country was first to give women the right to vote?|USA|UK|France|New Zealand|D|HARD
+HISTORY|Who was the first man to walk on the Moon?|Buzz Aldrin|Yuri Gagarin|Neil Armstrong|John Glenn|C|EASY
+HISTORY|In what year did the Titanic sink?|1910|1911|1912|1913|C|EASY
+HISTORY|Which ancient wonder was located in Alexandria?|Colossus|Hanging Gardens|Great Pyramid|Lighthouse|D|HARD
+SPORTS|How many players are on a football team?|9|10|11|12|C|EASY
+SPORTS|How many rings are on the Olympic flag?|4|5|6|7|B|EASY
+SPORTS|Which country invented basketball?|England|USA|Canada|Australia|C|MEDIUM
+SPORTS|How many Grand Slam tournaments are in tennis?|2|3|4|5|C|EASY
+SPORTS|How long is a marathon in kilometers approximately?|40|42|44|46|B|MEDIUM
+SPORTS|Which sport uses a shuttlecock?|Tennis|Squash|Badminton|Volleyball|C|EASY
+SPORTS|How many players are on a basketball team on court?|4|5|6|7|B|EASY
+SPORTS|In which sport can you score a hat trick?|Basketball|Football|Both A and B|Rugby|C|MEDIUM
+SPORTS|How many points is a touchdown worth in American football?|4|5|6|7|C|EASY
+SPORTS|Which country has won the most FIFA World Cups?|Germany|Argentina|Italy|Brazil|D|MEDIUM
