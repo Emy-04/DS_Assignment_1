@@ -1,8 +1,5 @@
 Here’s a clean and professional `README.md` file generated from your document, ready to paste directly into your GitHub repo:
 
----
-
-```markdown
 # 🎮 Multiplayer Trivia Game
 
 ## 📌 Overview
@@ -11,8 +8,6 @@ This project is a **Multiplayer Trivia Game** implemented using **Java Socket Pr
 It follows a **client-server architecture** where:
 - The **server** manages the game logic and multiple client connections.
 - The **clients** interact with the server through a command-line interface.
-
----
 
 ## 🏗️ System Architecture
 
@@ -36,7 +31,6 @@ Communication is done via **TCP sockets** using:
 - `BufferedReader`
 - `PrintWriter`
 
----
 
 ## 🛠️ Technologies Used
 - Java JDK 21
@@ -45,8 +39,6 @@ Communication is done via **TCP sockets** using:
 - File-based storage
 
 No external libraries are used.
-
----
 
 ## 📂 Data Files
 
@@ -180,7 +172,6 @@ username:10:20:30:15
 
 ```
 
----
 
 ## ⚔️ Multiplayer Details
 
